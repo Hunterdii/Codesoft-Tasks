@@ -1,11 +1,11 @@
-# Calculator App🧮
+# 🖩🌐 Calculator App 💻🧮
 
 This repository contains a simple calculator web application built with HTML, CSS, and JavaScript. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 
 ## Demo
 
-Check out the live demo on [CodePen]().
+Check out the live demo on [CodePen](https://codepen.io/Hunterdii/pen/jOJmbQv).
 
 ## Preview
 ![Calculator Preview](https://github.com/Hunterdii/Codesoft-Tasks/assets/124852522/4fdc2119-bc23-4be2-bd0e-88036e96169b)
