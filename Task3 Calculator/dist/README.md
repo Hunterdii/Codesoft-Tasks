@@ -39,4 +39,4 @@ This project is licensed under the [MIT License](LICENSE #).
 - Background Gradient: [Linear Gradient](https://uigradients.com/#Royal)
 - Button Animation: [Pulse Animation](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
 
-Feel free to explore, use, and contribute to this calculator application. If you have any suggestions or find any issues, please create an [issue](https://github.com/Hunterdii/Task3 Calculator/dist/issues).
+Feel free to explore, use, and contribute to this calculator application. If you have any suggestions or find any issues, please create an [issue](https://github.com/Hunterdii/issues).
