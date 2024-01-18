@@ -1,38 +1,37 @@
-# Ninja Calculator
+# Calculator App
 
-Ninja Calculator is a simple calculator application built using [insert programming language/framework here]. It allows users to perform basic mathematical operations such as addition, subtraction, multiplication, and division.
+This repository contains a simple calculator web application built with HTML, CSS, and JavaScript. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+## Preview
+![Calculator Preview](./calculator_preview.png)
 
 ## Features
+- **Responsive Design:** The calculator has a responsive design, making it suitable for various screen sizes.
+- **Basic Operations:** Users can perform addition, subtraction, multiplication, and division.
+- **Percentage Calculation:** The calculator supports percentage calculations.
+- **Clear and Delete Functionality:** Users can clear the entire input or delete the last entered character.
+- **Visual Feedback:** Buttons provide visual feedback on hover, enhancing the user experience.
 
-- Addition: Perform addition of two numbers.
-- Subtraction: Perform subtraction of two numbers.
-- Multiplication: Perform multiplication of two numbers.
-- Division: Perform division of two numbers.
+## How to Use
+1. Clone the repository to your local machine.
+   ```bash
+   git clone https://github.com/Hunterdii/calculator.git
+   ```
 
-## Installation
-
-1. Clone the repository: `git clone https://github.com/your-username/ninja-calculator.git`
-2. Navigate to the project directory: `cd ninja-calculator`
-3. Install dependencies: `npm install` or `yarn install`
-
-## Usage
-
-1. Run the application: `npm start` or `yarn start`
-2. Open your browser and navigate to `http://localhost:3000`
-3. Use the calculator to perform calculations.
+2. Open the `index.html` file in your web browser to use the calculator.
 
 ## Contributing
-
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+If you'd like to contribute to the project, please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and submit a pull request.
 
 ## License
-
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
+- Fonts: [Poppins](https://fonts.google.com/specimen/Poppins)
+- Background Gradient: [Linear Gradient](https://uigradients.com/#Royal)
+- Button Animation: [Pulse Animation](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
 
-- [List any libraries, frameworks, or resources you used in the project]
-
-## Contact
-
-For any questions or inquiries, please contact [your email address].
+Feel free to explore, use, and contribute to this calculator application. If you have any suggestions or find any issues, please create an [issue](https://github.com/Hunterdii/calculator/issues).
