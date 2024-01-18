@@ -2,8 +2,13 @@
 
 This repository contains a simple calculator web application built with HTML, CSS, and JavaScript. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+
+## Demo
+
+Check out the live demo on [CodePen]().
+
 ## Preview
-![Calculator Preview](./calculator_preview.png)
+![Calculator Preview](https://github.com/Hunterdii/Codesoft-Tasks/assets/124852522/4fdc2119-bc23-4be2-bd0e-88036e96169b)
 
 ## Features
 - **Responsive Design:** The calculator has a responsive design, making it suitable for various screen sizes.
@@ -27,7 +32,7 @@ If you'd like to contribute to the project, please follow these steps:
 3. Make your changes and submit a pull request.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE #).
 
 ## Acknowledgements
 - Fonts: [Poppins](https://fonts.google.com/specimen/Poppins)
