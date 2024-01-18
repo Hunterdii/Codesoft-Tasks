@@ -11,12 +11,12 @@
     width: 100%;
     height: 100vh;
     background-image: url(https://images.unsplash.com/photo-1666658442535-3c8317e077bf?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
-    background-color: rgba(0, 0, 0, 0.7); /* Adjusted background color */
+    background-color: rgba(0, 0, 0, 0.7); 
     background-blend-mode: multiply;
     background-position: center;
     background-size: cover;
     padding: 0 7%;
-    transition: background-image 1s ease; /* Added ease for smoother transition */
+    transition: background-image 1s ease;
 }
 
 nav {
@@ -24,18 +24,18 @@ nav {
     top: 0;
     left: 0;
     width: 100%;
-    height: 80px; /* Adjusted height for a cleaner look */
+    height: 80px; 
     display: flex;
     align-items: center;
-    justify-content: space-between; /* Improved alignment */
-    z-index: 1000; /* Ensured nav is on top */
+    justify-content: space-between;
+    z-index: 1000;
 }
 
 .logo {
     cursor: pointer;
     color: #fff;
-    font-size: 24px; /* Increased font size */
-    font-weight: 500; /* Adjusted font weight for better visibility */
+    font-size: 24px; 
+    font-weight: 500;
 }
 
 nav ul {
@@ -62,10 +62,10 @@ nav ul li a:hover {
 nav .btn {
     color: #fff;
     text-decoration: none;
-    border: 2px solid #fff; /* Increased border thickness */
-    padding: 10px 20px; /* Adjusted padding for a cleaner button */
+    border: 2px solid #fff;
+    padding: 10px 20px;
     border-radius: 30px;
-    transition: background-color 0.3s ease, color 0.3s ease; /* Added smooth transition */
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 nav .btn:hover {
@@ -80,9 +80,9 @@ nav .btn:hover {
     align-items: center;
     color: #fff;
     position: fixed;
-    bottom: 30px; /* Adjusted bottom spacing */
+    bottom: 30px;
     left: 0;
-    z-index: 1000; /* Ensured info is on top */
+    z-index: 1000;
 }
 
 .info div {
@@ -90,12 +90,12 @@ nav .btn:hover {
 }
 
 .info div h2 {
-    font-size: 36px; /* Reduced font size for a cleaner look */
+    font-size: 36px;
     font-weight: 500;
 }
 
 .info .line {
     flex: 1;
-    background: #ffcc00; /* Changed line color to match the theme */
-    height: 3px; /* Adjusted line thickness */
+    background: #ffcc00;
+    height: 3px;
 }
