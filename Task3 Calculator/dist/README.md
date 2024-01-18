@@ -20,7 +20,7 @@ Check out the live demo on [CodePen]().
 ## How to Use
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/Hunterdii/calculator.git
+   git clone https://github.com/Hunterdii/Task3 Calculator/dist.git
    ```
 
 2. Open the `index.html` file in your web browser to use the calculator.
@@ -39,4 +39,4 @@ This project is licensed under the [MIT License](LICENSE #).
 - Background Gradient: [Linear Gradient](https://uigradients.com/#Royal)
 - Button Animation: [Pulse Animation](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
 
-Feel free to explore, use, and contribute to this calculator application. If you have any suggestions or find any issues, please create an [issue](https://github.com/Hunterdii/calculator/issues).
+Feel free to explore, use, and contribute to this calculator application. If you have any suggestions or find any issues, please create an [issue](https://github.com/Hunterdii/Task3 Calculator/dist/issues).
