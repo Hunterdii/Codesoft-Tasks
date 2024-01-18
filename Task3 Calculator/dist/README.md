@@ -32,7 +32,7 @@ If you'd like to contribute to the project, please follow these steps:
 3. Make your changes and submit a pull request.
 
 ## License
-This project is licensed under the [MIT License](LICENSE #).
+This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 - Fonts: [Poppins](https://fonts.google.com/specimen/Poppins)
