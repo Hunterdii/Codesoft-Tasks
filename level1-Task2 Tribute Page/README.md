@@ -4,7 +4,7 @@
 
 Welcome to my tribute page dedicated to Sardar Vallabhbhai Patel. This project beautifully combines HTML and CSS to present a captivating story. Dive into the life and achievements of Sardar Vallabhbhai Patel with a touch of modern design and responsiveness.
 
-## Highlights
+# Highlights
 
 - **Responsive & Vibrant:** Experience seamless viewing on any device with a vibrant design.
 - **Engaging Transitions:** Smooth transitions enhance the user journey between sections.
